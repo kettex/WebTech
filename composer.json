@@ -1,0 +1,12 @@
+{
+    "name": "kettl/webTech",
+    "description": "",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Alexander Kettl",
+            "email": "alex_kettl@yahoo.de"
+        }
+    ]
+}
