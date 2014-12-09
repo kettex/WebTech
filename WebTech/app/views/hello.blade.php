@@ -10,7 +10,7 @@
                         <br><br>eget tellus luctus fermentum.</p>
                     <a href="single-post.html">Shop Now</a>
                 </div>
-                <img src="../app/images/slide1.jpg" alt="" />
+                <img src="../app/images/slide1.jpg" alt="slidePicture1" />
             </li>
             <li>
                 <div class="slider-caption">
